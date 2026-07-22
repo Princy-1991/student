@@ -5,6 +5,7 @@ public class studentclass {
 		System.out.println("Hello git");
 		System.out.println("Welcome to Git hub");
 		System.out.println("Git Practice day");
+		System.out.println("Eclips to git");
 	}
 
 }
