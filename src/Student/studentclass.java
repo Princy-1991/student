@@ -7,6 +7,7 @@ public class studentclass {
 		System.out.println("Git Practice day");
 		System.out.println("Eclips to git");
 		System.out.println("Git practice day 2");
+		System.out.println("Git practice day 3");
 	}
 
 }
