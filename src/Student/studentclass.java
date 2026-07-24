@@ -10,6 +10,7 @@ public class studentclass {
 		System.out.println("Git practice day 3");
 		System.out.println("Git practice day 4");
 		System.out.println("Git practice day 5");
+		System.out.println("Git practice day 6");
 	}
 
 }
